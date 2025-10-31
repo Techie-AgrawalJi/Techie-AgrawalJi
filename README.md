@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techie-agrawalji&show_icons=true&locale=en" alt="techie-agrawalji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techie-agrawalji&" alt="techie-agrawalji" /></p>
+
 
 <img align="right" alt="Holopins" src="https://holopin.me/techieagrawalji">
