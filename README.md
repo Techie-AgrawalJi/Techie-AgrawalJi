@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Agrawal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fweird-animated-gifs-gallery--677721443920577463%2F&psig=AOvVaw3T-5A5nFUgCsmL4Nlzhed4&ust=1762020640956000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC2-cmEz5ADFQAAAAAdAAAAABAL
+<img align="right" alt="gif" src="https://i.pinimg.com/originals/78/63/36/7863362124aee1020dd1784a9f95a4ae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techie-agrawalji&label=Profile%20views&color=0e75b6&style=flat" alt="techie-agrawalji" /> </p>
 
